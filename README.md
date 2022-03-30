@@ -1,1 +1,1 @@
-# Glowing-Garden
+Glowing Garden - Capstone Project
